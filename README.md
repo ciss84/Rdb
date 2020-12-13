@@ -1,3 +1,3 @@
-# Rdb1 test
+# Rdb test
 
-https://ciss84.github.io/Rdb3/index.html
+https://ciss84.github.io/RdbMugi/index.html
